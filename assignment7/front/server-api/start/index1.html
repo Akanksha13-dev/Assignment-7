@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <style>
+        th, td, p, input {
+            font:14px Verdana;
+        }
+        table, th, td, #wer,#butt1,#butt2,#butt3,#butt4
+        {
+            border: solid 6px #DDD;
+            border-collapse: collapse;
+            padding: 16px 16px;
+            margin-left:auto;
+            margin-right:auto;
+            
+            text-align: center;
+        }
+        table{
+            table-layout: fixed;
+        }
+        .wrapper,#showManupulate {
+        text-align: center;
+        }
+        #showManupulate,#showData{margin-top: 80px;}
+        
+        th {
+            font-weight:bold;
+        }
+        </style>
+</head>
+<body>
+    <div class="wrapper">
+    <button id="wer"  type="button" onclick="CreateTableFromJSON()" >Load Data</button>
+    </div>
+    <p id="showData"></p> 
+    <p id="showManupulate"></p>
+    <p id="retriveValue" style="font-size: large;"></p>
+    <script src="./module.js"></script>
+    <script  src="./crud.js" ></script>
+    <script  src="./source.js" >
+</script>
+
+</body>
+</html>

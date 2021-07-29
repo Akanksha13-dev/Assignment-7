@@ -1,0 +1,46 @@
+[{
+    "ID":"1",
+    "First__Name": "Akanksha",
+    "Middle__Name": "",
+    "Last__Name": "Singh",
+    "Email": "singh@gmail.com",
+    "Phone_Number": "9987654321",
+    "Role": 1,
+    "Address": "Bhopal",
+    "DateTime":"2020-2-3"
+},
+{
+    "ID": "2",
+    "First__Name": "Jai",
+    "Middle__Name": "Narayan",
+    "Last__Name": "Singh",
+    "Email": "jns@gmail.com",
+    "Phone_Number": "9087654321",
+    "Role": 0,
+    "Address": "Pune",
+    "DateTime":"2020-2-3"
+},
+{
+    "ID": "3",
+    "First__Name": "Shurabhi",
+    "Middle__Name": "Singh",
+    "Last__Name": "Mittal",
+    "Email": "ssm@gmail.com",
+    "Phone_Number": "8907654321",
+    "Role": 0,
+    "Address": "Mohali",
+    "DateTime":"2020-2-3"
+},
+{
+    "ID": "4",
+    "First__Name": "Chavi",
+    "Middle__Name": "",
+    "Last__Name": "Sonali",
+    "Email": "ssp@gmail.com",
+    "Phone_Number": "8901234567",
+    "Role": 1,
+    "Address": "Mumbai",
+    "DateTime":"2020-2-3"
+}
+
+]
